@@ -1,4 +1,4 @@
-numbers = list(range(1,51))
+numbers = range(1,51)
 
 sum = 0
 
